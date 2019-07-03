@@ -11,15 +11,11 @@ Follow the steps below to run the application. Maven should be installed on your
  - download the zip file from github
  - unzip the file
  - open terminal and cd into com.sn.webcrawler folder
- - Run mvn install 
-	mvn clean install or mvn install -Dmaven.test.skip=true
- - cd into target directory 
-	cd target
- - Run the application
-	java -jar search-com.sn.webcrawler-0.0.1-SNAPSHOT.jar
- - View the results
-	cd ..
-	vi com.sn.webcrawler/results.txt
+ - Run mvn install - mvn clean install or mvn install -Dmaven.test.skip=true
+ - cd into target directory - cd target
+ - Run the application - java -jar search-com.sn.webcrawler-0.0.1-SNAPSHOT.jar
+ - View the results go back to app root folder - cd..
+ - vi com.sn.webcrawler/results.txt
 	
 
 
